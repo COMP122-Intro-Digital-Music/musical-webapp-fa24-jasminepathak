@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Beat ",
+    "file": "samples/beat80bpm.wav",
+    "bpm": "80",
+    "loop": "8m"
+  },
+  {
+    "name": "boomclap",
+    "file": "samples/Anthem80bpm.wav",
+    "bpm": "80",
+    "loop": "8m"
+  },
+  {
+    "name": "purplekit",
+    "file": "samples/Purple_Kit80bpm.wav",
+    "bpm": "80",
+    "loop": "8m"
+  }
+]
