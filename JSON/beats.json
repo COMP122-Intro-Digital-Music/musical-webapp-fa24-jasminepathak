@@ -1,22 +1,22 @@
 [
   {
-    "name": "kicking",
+    "name": "hi-hat",
+    "pitch": "F#4",
+    "pattern": "1010"
+  },
+  {
+    "name": "kicker",
     "pitch": "A3",
-    "pattern": "10000000"
+    "pattern": "0010"
   },
   {
     "name": "clapper",
     "pitch": "C4",
-    "pattern": "0101"
+    "pattern": "0001110"
   },
   {
-    "name": "shot",
-    "pitch": "C#4",
-    "pattern": "1010"
-  },
-  {
-    "name": "snaring",
-    "pitch": "B3",
-    "pattern": "11110000"
+    "name": "closed",
+    "pitch": "F4",
+    "pattern": "1100"
   }
 ]
