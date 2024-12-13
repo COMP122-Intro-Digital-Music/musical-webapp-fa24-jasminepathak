@@ -1,1 +1,79 @@
-[ ]
+[
+  {
+    "name": "milly",
+    "pitchSet": {
+      "state": "C4",
+      "matrix": {
+        "undefined": [
+          "undefined"
+        ],
+        "C4": [
+          "B4",
+          "C4",
+          "A4"
+        ],
+        "B4": [
+          "B4",
+          "C4",
+          "G2"
+        ],
+        "A4": [
+          "A4",
+          "B4"
+        ],
+        "G2": [
+          "G7",
+          "C4"
+        ],
+        "G7": [
+          "G2"
+        ]
+      }
+    },
+    "rhythmSet": {
+      "state": "8n",
+      "matrix": {
+        "8n": [
+          "2n",
+          "16n"
+        ],
+        "4n": [
+          "4n",
+          "8n."
+        ],
+        "4n.": [
+          "4n."
+        ],
+        "8n.": [
+          "8n.",
+          "4n."
+        ],
+        "16n": [
+          "16n"
+        ],
+        "2n": [
+          "8n."
+        ]
+      }
+    }
+  },
+  {
+    "name": "Default Graph",
+    "pitchSet": {
+      "state": "C4",
+      "matrix": {
+        "C4": [
+          "C4"
+        ]
+      }
+    },
+    "rhythmSet": {
+      "state": "4n",
+      "matrix": {
+        "4n": [
+          "4n"
+        ]
+      }
+    }
+  }
+]
